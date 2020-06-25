@@ -1,4 +1,4 @@
-# zookeeper
+# Zookeeper
 Stage #4: Sustainable care <3
 
 Description
